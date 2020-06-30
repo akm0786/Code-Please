@@ -1,4 +1,4 @@
-//Euclid's Algorithm to find GCD in fastest way
+//Euclid's Algorithm to find GCD in fastest way.
 #include <stdio.h>
     
     int gcd(int a,int b)
